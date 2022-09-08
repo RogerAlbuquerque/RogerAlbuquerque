@@ -7,14 +7,14 @@
 ## 🛠 **Ferramentas com que trabalho normalmente**
 
 <div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>            
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>            
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"            width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"    width="50" height="50"/>            
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"           width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"                     width="50" height="50"/>            
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"              width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"                       width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"                width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"                     width="50" height="50"/>
 
 </div>
 <br>
@@ -22,12 +22,12 @@
 ## Outras ferramentas que uso:
 
 <div> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"                     width="50" height="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"      width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"                 width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                         width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"         width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"        width="50" height="50"/>
 
 </div>
 
