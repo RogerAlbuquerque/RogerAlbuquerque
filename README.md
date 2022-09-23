@@ -45,6 +45,6 @@
    - Sou programador :open_mouth: (Por essa você não esperava)
    
  
-**Keep studying and reach a dreaming :triumph: :fire:**
+**don't rest in the middle, rest in the end :triumph: :fire:**
 
           
