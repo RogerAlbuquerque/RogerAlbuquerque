@@ -1,6 +1,7 @@
 # Olá visitante :grin:, eu me chamo **Roger** 
 - Desenvolvedor frontend
-- Atualmente cursando o 3º período do curso de Análise e desenvolvimento de sistemas
+- Atualmente estudando sobre backend com node.
+- cursando o 4º período do curso de Análise e desenvolvimento de sistemas
 
 
     
