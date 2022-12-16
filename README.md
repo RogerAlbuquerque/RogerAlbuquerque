@@ -50,7 +50,7 @@
 <br>
 
 ## 3 Fatos sobre mim:
-   - Gosto de estudar sobre estoicismo :book:
+   - Gamer :video_game:
    - Guitarrista de quarto :guitar:
    - Sou programador :open_mouth: (Por essa você não esperava)
    
