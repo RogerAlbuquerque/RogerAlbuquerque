@@ -1,6 +1,7 @@
+
 # Olá visitante :grin:, eu me chamo **Roger** 
 - Desenvolvedor frontend
-- Atualmente estudando sobre backend com node.
+- Atualmente aprimorando meus conhecimentos no desenvolvimento web fullstack.
 - cursando o 4º período do curso de Análise e desenvolvimento de sistemas
 
 <div align="center">
@@ -34,7 +35,7 @@
 </div>
 <br>
 
-## Conhecimentos extras pra hobbies:
+## Conhecimentos extras para hobbies:
 
 <div> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"                     width="50" height="50"/>
