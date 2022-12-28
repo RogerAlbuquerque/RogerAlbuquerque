@@ -1,5 +1,5 @@
 
-# Olá visitante :grin:, eu me chamo **Roger** 
+# Olá visitante :grin: fique a vontade para conhecer melhor meu trabalho
 - Desenvolvedor fullstack
 - Atualmente com mais foco em backend com NodeJs.
 - Prestes a cursar o 4º período do curso de Análise e desenvolvimento de sistemas
