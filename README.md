@@ -1,8 +1,8 @@
 
 # Olá visitante :grin:, eu me chamo **Roger** 
-- Desenvolvedor frontend
-- Atualmente aprimorando meus conhecimentos no desenvolvimento web fullstack.
-- cursando o 4º período do curso de Análise e desenvolvimento de sistemas
+- Desenvolvedor fullstack
+- Atualmente com mais foco em backend com NodeJs.
+- Prestes a cursar o 4º período do curso de Análise e desenvolvimento de sistemas
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -28,10 +28,6 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"                  width="50" height="50"/>     
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"        width="50" height="50"/> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"               width="50" height="50"/>
-    
-
-
-
 </div>
 <br>
 
@@ -44,7 +40,6 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"                 width="50" height="50"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                         width="50" height="50"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"         width="50" height="50"/>
-     
 </div>
 
 ## Minhas redes sociais:
@@ -58,7 +53,7 @@
 ## 3 Fatos sobre mim:
    - Gamer :video_game:
    - Guitarrista de quarto :guitar:
-   - Sou programador :open_mouth: (Por essa você não esperava)
+   - Workaholic :open_mouth: 
    
  
 **don't rest in the middle, rest in the end :triumph: :fire:**
