@@ -5,12 +5,11 @@
 - Prestes a cursar o 4º período do curso de Análise e desenvolvimento de sistemas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<!--    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerAlbuquerque&theme=radical&hide_border=false"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerAlbuquerque&layout=compact&langs_count=7&theme=radical"/>
+ <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
+ <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api/top-langs/?theme=radical&layout=compact&username=RogerAlbuquerque&langs_count=7"/>
 </div>
 
-    
+
 ## 🛠 **Ferramentas com que trabalho normalmente**
 
 <div align="center">
