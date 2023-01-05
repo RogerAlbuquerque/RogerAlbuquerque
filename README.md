@@ -1,8 +1,8 @@
 
-# Olá visitante :grin: fique a vontade para conhecer melhor meu trabalho
+# Olá visitante, Eu me chamo Roger :grin:
 - Desenvolvedor fullstack
 - Atualmente com mais foco em backend com NodeJs.
-- Prestes a cursar o 4º período do curso de Análise e desenvolvimento de sistemas
+- Me encontro no 4º período do curso de Análise e desenvolvimento de sistemas
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
