@@ -3,7 +3,7 @@
 - Desenvolvedor fullstack
 - Atualmente com mais foco em backend com NodeJs.
 - Me encontro no 4º período do curso de Análise e desenvolvimento de sistemas
-- Link para o meu portóflio: https://rogeralbuquerque.github.io/portfolio/
+- <a href="https://rogeralbuquerque.github.io/portfolio/"> Link para o meu portóflio </a>
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
