@@ -1,6 +1,6 @@
 
 # Olá visitante, Eu me chamo Roger :grin:
-- Desenvolvedor fullstack (Atualmente com mais foco em backend com NodeJs)
+- Desenvolvedor fullstack (Atualmente com foco em backend com NodeJs)
 - Me encontro no 4º período do curso de Análise e desenvolvimento de sistemas
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> Link para o meu portóflio </a>
 
