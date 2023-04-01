@@ -1,8 +1,7 @@
 
-# Olá visitante, Eu me chamo Roger :grin:
-- Desenvolvedor fullstack (Atualmente com foco em backend com NodeJs)
-- Me encontro no 4º período do curso de Análise e desenvolvimento de sistemas
-- <a href="https://rogeralbuquerque.github.io/portfolio/"> Link para o meu portóflio </a>
+# Hey there, Call me Roger :grin:
+- fullstack developer
+- <a href="https://rogeralbuquerque.github.io/portfolio/"> see my unfinished portfolio (for now) </a>
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
@@ -11,7 +10,7 @@
 </div>
 
 
-## 🛠 **Ferramentas com que trabalho normalmente**
+## 🛠 **My Hard skills**
 
 <div align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"                width="60"  height="60"/>     
@@ -31,7 +30,7 @@
 </div>
 <br>
 
-## Conhecimentos extras para hobbies:
+## Some technology for my hobbies:
 
 <div align="center"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"                     width="50" height="50"/>
@@ -42,7 +41,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"         width="50" height="50"/>
 </div>
 
-## Minhas redes sociais:
+## See what I'm doing:
 <div align="center"> 
 <a href="https://instagram.com/estudahack" target="_blank">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -53,9 +52,9 @@
 
 <br>
 
-## 3 Fatos sobre mim:
+## Fun facts about me:
    - Gamer :video_game:
-   - Guitarrista de quarto :guitar:
+   - Great Guitarrist :guitar:
    - Workaholic :open_mouth: 
    
  
