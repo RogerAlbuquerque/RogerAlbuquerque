@@ -8,7 +8,7 @@
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
- <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api/top-langs/?theme=radical&layout=compact&username=RogerAlbuquerque&langs_count=7"/>
+<!--  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api/top-langs/?theme=radical&layout=compact&username=RogerAlbuquerque&langs_count=7"/> -->
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerAlbuquerque&theme=radical&hide_border=false"/>
 </div>
 
@@ -24,7 +24,14 @@ const Roger = {
 ```
 <br>
 
-
+<hr>
+<div align='center'>
+  <img src="MyGames.png" width="225"/>
+</div>
+<br>
+<div align='center'>
+  <a href="https://morinobr.itch.io/"><img src="badge-color.svg" width="180"/></a>
+</div>
 
 
 ## See what I'm doing:
