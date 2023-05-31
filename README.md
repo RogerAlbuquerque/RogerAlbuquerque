@@ -1,45 +1,52 @@
 
 # Hey there, Call me Roger :grin:
-- Game Developer with unity 2D/3D 
-- 3D modeling with Blender and ZBrush
-
- Sometimes i'm a Fullstack Web Developer
-- <a href="https://rogeralbuquerque.github.io/portfolio/"> see my unfinished portfolio </a>
+- fullstack developer
+- <a href="https://rogeralbuquerque.github.io/portfolio/"> see my unfinished portfolio (for now) </a>
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
-<!--  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api/top-langs/?theme=radical&layout=compact&username=RogerAlbuquerque&langs_count=7"/> -->
+ <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api/top-langs/?theme=radical&layout=compact&username=RogerAlbuquerque&langs_count=7"/>
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerAlbuquerque&theme=radical&hide_border=false"/>
 </div>
 
 
 ## 🛠 **My Hard skills**
-```javascript
-const Roger = {
-  code: [C#, C++, C, Javascript],
-  tools: [Unity, Blender, ZBrush,Photshop, Git, Github],
-  extras: [Typescript, React, Node, Prisma, Express,Cloud Computing (AWS)],
-  challenge: "Learning more, and be the best everyday."
-}
-```
-<br>
 
-<hr>
-<div align='center'>
-  <img src="MyGames.png" width="225"/>
+<div align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"                width="60"  height="60"/>     
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"              width="60"  height="60"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="60"  height="60"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"            width="50"  height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"            width="50"  height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"                width="50"  height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"              width="50"  height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"                    width="50"  height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"                         width="50"  height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"                         width="50"  height="50"/>           
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"                  width="50"  height="50"/>     
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"        width="50"  height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"               width="50"  height="50"/>
 </div>
 <br>
-<div align='center'>
-  <a href="https://morinobr.itch.io/"><img src="badge-color.svg" width="180"/></a>
-</div>
 
+## Some technology for my hobbies:
+
+<div align="center"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"                     width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"      width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"        width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"                 width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                         width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"         width="50" height="50"/>
+</div>
 
 ## See what I'm doing:
 <div align="center"> 
 <a href="https://instagram.com/estudahack" target="_blank">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-<a href="https://www.linkedin.com/in/roger-albuquerque-6622481b7" target="_blank">
+<a href="https://www.linkedin.com/in/roger-albuquerque" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
