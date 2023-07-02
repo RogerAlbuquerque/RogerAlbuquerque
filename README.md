@@ -1,7 +1,7 @@
 
 # Hey there, Call me Roger :grin:
-- fullstack web developer
-- <a href="https://rogeralbuquerque.github.io/portfolio/"> see my unfinished portfolio (for now) </a>
+- Fullstack Web Developer
+- <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
