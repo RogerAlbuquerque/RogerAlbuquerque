@@ -1,6 +1,6 @@
 
 # Hey there, Call me Roger :grin:
-- Fullstack Web Developer
+- Full-Cycle Web Developer
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
 
 <div align="center">
