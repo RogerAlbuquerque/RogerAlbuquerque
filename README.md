@@ -1,5 +1,5 @@
 
-# Hey there, Call me Roger :grin:
+# Hey there, people call me Roger :grin:
 - I am currently a freelance full stack web developer living in Brazil
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
 
