@@ -1,6 +1,6 @@
 
 # Hey there, people call me Roger :grin:
-- I am currently a freelance full stack web developer living in Brazil
+- I am currently a freelance full stack web developer living in Brazil.
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
 
 <div align="center">
