@@ -14,6 +14,12 @@
 <a href="https://www.linkedin.com/in/roger-albuquerque" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
+<a href="https://www.youtube.com/@rogeralbuquerque3/streams" target="_blank">
+ <img src="https://img.shields.io/badge/-youtube-%23D00000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+</div> 
+
+
+
 
 <br><br>
 
