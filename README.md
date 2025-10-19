@@ -2,7 +2,7 @@
 - I am currently a freelance full stack web developer living in Brazil.
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
 - <a href="https://roger-portfolio.vercel.app/"> MY NEW PORTFOLIO (Under construction)</a>
-- <a href="Roger-Albuquerque-Resume.pdf" download> My Curriculum</a>
+- <a href="./Roger-Albuquerque-Resume.pdf" download> My Curriculum</a>
 <div align="center">
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api?username=RogerAlbuquerque&show_icons=true&theme=radical"/>
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api/top-langs/?theme=radical&layout=compact&username=RogerAlbuquerque&langs_count=7"/>
