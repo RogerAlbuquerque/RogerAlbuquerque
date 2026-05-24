@@ -3,7 +3,7 @@
 	<img src="welcome-header.gif" alt="welcome to my github profile">
 </div>
 
-# Hey there, people call me Roger :grin:
+# Hey there, the people call me as Roger  :grin:
 
 - I am currently a freelance full stack web developer living in Brazil.
 - Full Stack Developer Javascritp and Csharp with experience building web applications, APIs, and custom software solutions.
