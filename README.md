@@ -15,6 +15,41 @@
  <img height="160em" src="https://github-readme-stats-three-rho-95.vercel.app/api/top-langs/?theme=radical&layout=compact&username=RogerAlbuquerque&langs_count=7"/>
 </div>
 
+# Skills
+
+<p align="center">
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+	<code><img title="nodejs" height="25" src="images/nodejs.svg"></code>
+	<code><img title="nestjs" height="25" src="images/nestjs.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="nextjs" height="25" src="images/nextjs.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="mongodb" height="25" src="images/mongodb.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+</p>
+<p align="center">
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="kubernetes" height="25" src="images/kubernetes.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+</p>
+
 ## See what I'm doing:
 
 <div align="center"> 
