@@ -1,5 +1,12 @@
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
 # Hey there, people call me Roger :grin:
 - I am currently a freelance full stack web developer living in Brazil.
+- Full Stack Developer with experience building web applications, APIs, and custom software solutions.
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
 - <a href="https://roger-portfolio.vercel.app/"> MY NEW PORTFOLIO (Under construction)</a>
 - <a href="Roger-Albuquerque-Curriculo.pdf" download> My Curriculum</a>
@@ -19,7 +26,6 @@
 ## Fun facts about me:
    - Gamer :video_game:
    - Great Guitarrist :guitar:
-   - Workaholic :open_mouth:   
+   - Workaholic [](cat-typing.gif)
     <br>
-    
  **don't rest in the middle, rest in the end :triumph: :fire:** <br>
