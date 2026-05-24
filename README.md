@@ -6,7 +6,7 @@
 # Hey there, people call me Roger :grin:
 
 - I am currently a freelance full stack web developer living in Brazil.
-- Full Stack Developer with experience building web applications, APIs, and custom software solutions.
+- Full Stack Developer Javascritp and Csharp with experience building web applications, APIs, and custom software solutions.
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
 - <a href="https://roger-portfolio.vercel.app/"> MY NEW PORTFOLIO (Under construction)</a>
 - <a href="Roger-Albuquerque-Curriculo.pdf" download> My Curriculum</a>
