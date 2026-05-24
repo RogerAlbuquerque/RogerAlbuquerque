@@ -1,10 +1,10 @@
+
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
 </div>
 
 # Hey there, people call me Roger :grin:
+
 - I am currently a freelance full stack web developer living in Brazil.
 - Full Stack Developer with experience building web applications, APIs, and custom software solutions.
 - <a href="https://rogeralbuquerque.github.io/portfolio/"> MY PORTFOLIO </a>
